@@ -15,7 +15,7 @@ name                     : &name "王筱蕾"
 description              : &description "个人介绍"
 url                      : https://xlw911.github.io/xlw911.github.io. # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xlw911/xlw911.github.io."
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
