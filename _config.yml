@@ -13,7 +13,7 @@ title                    : "个人主页"
 title_separator          : "-"
 name                     : &name "王筱蕾"
 description              : &description "个人介绍"
-url                      : https://xlw911.github.io/xlw911.github.io. # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://xlw911.github.io/xlw911.github.io./ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
