@@ -26,24 +26,4 @@ GPA：2.97
 
 **主修课程：**现代农业创新与乡村振兴战略，农化产品高效利用与管理，农产品安全生产技术与应用，资源利用与植物保护技术进展，农业面源污染与生态治理等。
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
