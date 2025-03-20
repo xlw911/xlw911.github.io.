@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://pbs.twimg.com/media/Gmd7iz8a8AEkaxA?format=jpg&name=medium"
+  avatar           : "https://pbs.twimg.com/media/GmeYDq0b0AADxRG?format=jpg&name=medium"
   name             : "王筱蕾"
-  pronouns         : "she"  
+  pronouns         : "-"  
   bio              : "个人介绍"
   location         : "湖北省武汉市"
   employer         : "就读于华中农业大学"
